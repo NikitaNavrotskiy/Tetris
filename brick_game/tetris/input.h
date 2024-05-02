@@ -1,0 +1,8 @@
+#ifndef _C_BRICK_GAME_V1_BRICK_GAME_TETRIS_INPUT_H
+#define _C_BRICK_GAME_V1_BRICK_GAME_TETRIS_INPUT_H
+
+#define KEY_PAUSE 'p'
+#define KEY_EXIT_ 'e'
+#define KEY_ENTER_ 10
+
+#endif
